@@ -16,7 +16,7 @@ $counts = 0;
 
  
  
-
+//  POST method used to process the FORM input data
 
 
 if ($_SERVER["REQUEST_METHOD"] == "POST")  
